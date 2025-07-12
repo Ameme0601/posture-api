@@ -1,6 +1,6 @@
 flask
 opencv-python
 numpy
-mediapipe
+git+https://github.com/google/mediapipe.git@v0.10.7
 scikit-learn
 joblib
