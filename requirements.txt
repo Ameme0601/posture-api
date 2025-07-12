@@ -1,6 +1,6 @@
 flask
+opencv-python-headless==4.8.0.76
 numpy
+mediapipe==0.9.3.0
 scikit-learn
 joblib
-opencv-python-headless==4.8.0.76
-mediapipe==0.10.7
