@@ -1,6 +1,6 @@
 flask
 opencv-python-headless==4.8.0.76
 numpy
-mediapipe==0.9.3.0
+mediapipe @ git+https://github.com/google/mediapipe.git@v0.10.7
 scikit-learn
 joblib
