@@ -1,0 +1,7 @@
+# 忽略訓練圖片與測試圖片資料夾
+data/raw_images/
+data/test_images/
+data/pic/
+
+# 可選擇整個 data 都忽略（看你是否都不想上傳）
+# data/
