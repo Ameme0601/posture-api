@@ -5,3 +5,4 @@ data/pic/
 
 # 可選擇整個 data 都忽略（看你是否都不想上傳）
 # data/
+*.zip
